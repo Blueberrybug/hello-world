@@ -1,2 +1,5 @@
 # hello-world
-hi, bugaboo
+Hi, bugaboo!
+
+#original
+a bit about yourself c:
